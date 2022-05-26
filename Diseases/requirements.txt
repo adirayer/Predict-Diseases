@@ -1,0 +1,4 @@
+keras==2.9.0
+keras_nightly==2.5.0.dev2021032900
+streamlit==1.9.0
+streamlit_option_menu==0.3.2
